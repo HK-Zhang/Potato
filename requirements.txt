@@ -1,0 +1,24 @@
+# grpcio==1.47.0
+# pillow==9.1.1
+# grpcio-reflection==1.46.1
+# grpcio-health-checking==1.47.0
+# grpcio-status==1.47.0
+# numpy==1.23.4
+# tqdm==4.60.0
+# opencv-python==4.6.0.66
+# pandas==1.5.1
+# torch==1.13.0
+# torchvision==0.14.0
+# scipy==1.9.3
+fastapi==0.85.2
+uvicorn==0.19.0
+python-multipart==0.0.5
+python-dotenv==0.19.2
+opencensus-ext-azure==1.1.1
+azure-common==1.1.28
+azure-core==1.22.0
+azure-identity==1.7.1
+azure-keyvault-secrets==4.3.0
+azure-servicebus==7.5.0
+azure-storage-blob==12.9.0
+azure-storage-file-datalake==12.5.0
